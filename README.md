@@ -1,9 +1,16 @@
+# Flutter Body Mass Index Calculator App
+
+ <br>
+ <br> 
+ <br>
+ <br>
+
 <p align="center">
   <a href="https://flutter.io/">
     <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Flutter Body Mass Index Calculator App</h3>
+  <h3 align="center">Flutter BMI Calculator App</h3>
 
   <p align="center">
     Example app built with Flutter that contains the
