@@ -46,5 +46,5 @@ flutter and setup an emulator to be able to view and modify the source code to y
 
 ## Copyright and license
 
-Code and documentation copyright 2018 the authors. Code released under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+Code and documentation copyright 2018 the authors. Code released under the [MIT License](https://github.com/Omar-Gebal/Flutter-BMI-calculator/blob/main/LICENSE).
 
