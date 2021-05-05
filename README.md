@@ -1,7 +1,6 @@
 # Flutter Body Mass Index Calculator App
 
- <br>
- <br> 
+
  <br>
  <br>
 
